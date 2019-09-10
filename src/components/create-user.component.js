@@ -51,7 +51,7 @@ export default class CreateUser extends Component {
           <div className="form-group">
             <input
               type="submit"
-              value="Create exercise log"
+              value="Create user"
               className="btn btn-primary"
             />
           </div>
